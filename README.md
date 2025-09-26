@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption-and-Decryption
-### NAME:ABHINESWAR REDDY K
-### REG NO: 212223040084
+### NAME:PRAVISH J
+### REG NO: 212224040249
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
