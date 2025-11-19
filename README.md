@@ -1,6 +1,7 @@
 # EX-NO-7-Implement-DES-Encryption-and-Decryption
-### NAME:PRAVISH J
-### REG NO: 212224040249
+# NAME: PRAVISH J
+# REF NO : 212224040249
+
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
@@ -16,7 +17,6 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 ```
 #include <stdio.h>
  #include <string.h>
- // Function to perform a simple XOR-based encryption
  void encrypt(char *message, char *key, char *encryptedMessage, int
  messageLength) {
  int keyLength = strlen(key);
@@ -66,13 +66,14 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
  printf("Decrypted Message: %s\n", decryptedMessage);
  return 0;
  }
-
 ```
 
 
 
+
 ## Output:
-![image](https://github.com/user-attachments/assets/4013d96e-18c2-4e88-a35b-d101939ed465)
+![Screenshot 2025-04-25 133539](https://github.com/user-attachments/assets/5941d858-7954-4ce0-9d6a-1de913bd1a79)
+
 
 
 ## Result:
